@@ -1,0 +1,11 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "my first socket.io app",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
